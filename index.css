@@ -1,0 +1,16 @@
+.h1 {
+    background-color: aqua;
+}
+.wrapper {
+    max-inline-size: 72.375rem;
+    padding-inline-end: 0.5rem;
+    padding-inline-start: 0.5rem;
+    margin: auto;
+}
+
+.header {
+    justify-content: space-between;
+    max-inline-size: 72.375rem;
+    padding-inline-end: 0.5rem;
+    padding-inline-start: 0.5rem;
+}
